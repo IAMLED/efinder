@@ -14,3 +14,4 @@ python3 ./efinder.py [url] [path/to/file] [options]
 As of 25 October 2023, only the following features have been completed.
 - Get URL and File
 - Combine names in the file with the URL to get emails
+- Verify Emails on O365 
